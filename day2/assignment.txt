@@ -1,0 +1,17 @@
+Create an event that will be called once every 2 seconds for 5 times only.
+
+read content from 5 files and write it to a single file.
+
+read content from 5 files and write it to the begining of file.
+
+
+node's symantic versioning
+
+major update . minor update . bug fix
+1.0.0
+21.7.1
+
+--------------------------------------
+
+^ up until
+~ 

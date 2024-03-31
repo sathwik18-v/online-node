@@ -1,0 +1,30 @@
+{
+  "name": "step12",
+  "version": "1.0.0",
+  "description": "this is my first node project to read external files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodefiles/"
+  },
+  "keywords": [
+    "vijay",
+    "intellipaat",
+    "india",
+    "external-files",
+    "fetch",
+    "axios"
+  ],
+  "author": "vjoy",
+  "contributors": [
+    "kvurimi",
+    "dipti.choudhari25"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
